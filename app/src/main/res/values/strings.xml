@@ -6,7 +6,7 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Nouveau Spot</string>
     <string name="previous">Liste des Spots</string>
-
+    <string name="image_alt">Surfeur</string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     </string>
@@ -14,6 +14,6 @@
         Surf Paradis
     </string>
     <string name="lieu">
-        145 rue l'Auberge Blanche - 34630 Perpignan
+        145 rue l\'Auberge Blanche - 34630 Perpignan
     </string>
 </resources>

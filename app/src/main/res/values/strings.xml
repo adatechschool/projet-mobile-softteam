@@ -4,7 +4,7 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Nouveau Spot</string>
+    <string name="next">Ajout Spot</string>
     <string name="previous">Liste des Spots</string>
     <string name="image_alt">Surfeur</string>
     <string name="lorem_ipsum">
